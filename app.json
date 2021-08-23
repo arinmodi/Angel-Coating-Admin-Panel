@@ -1,0 +1,12 @@
+{
+  "name": "Angelcoating_admin",
+  "displayName": "Angelcoating_admin",
+  "expo": {
+    "name": "Angelcoating_admin",
+    "slug": "Angelcoating_admin",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

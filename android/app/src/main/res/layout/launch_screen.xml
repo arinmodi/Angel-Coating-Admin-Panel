@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:orientation="vertical"
+    android:weightSum="5"
+    android:gravity="center"
+    tools:context=".Splash2Activity">
+
+    <ImageView
+        android:id="@+id/img_splash2"
+        android:layout_weight="2.5"
+        android:src="@drawable/angel_coating_logo"
+        android:layout_gravity="center_horizontal|bottom"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp" />
+
+    <TextView
+        android:id="@+id/txt_angel"
+        android:text="Angel Coating"
+        android:textStyle="bold"
+        android:textSize="30sp"
+        android:layout_below="@+id/img_splash2"
+        android:gravity="center"
+        android:textColor="#702f8b"
+        android:layout_centerHorizontal="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/txt2"
+        
+        android:layout_alignParentBottom="true"
+        android:text="Admin Panel"
+        android:textStyle="bold"
+        android:layout_marginTop="10dp"
+        android:textSize="15sp"
+        android:gravity="center"
+        android:textColor="#702f8b"
+        android:layout_centerHorizontal="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

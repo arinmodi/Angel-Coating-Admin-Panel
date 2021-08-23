@@ -1,0 +1,27 @@
+import AntDesigns from 'react-native-vector-icons/AntDesign';
+import Entypos from 'react-native-vector-icons/Entypo';
+import EvilIconss from 'react-native-vector-icons/EvilIcons';
+import Feathers from 'react-native-vector-icons/Feather';
+import FontAwesomes from 'react-native-vector-icons/FontAwesome';
+import FontAwesome5s from 'react-native-vector-icons/FontAwesome5';
+import Fontistos from 'react-native-vector-icons/Fontisto';
+import Foundations from 'react-native-vector-icons/Foundation';
+import Ioniconss from 'react-native-vector-icons/Ionicons';
+import MaterialCommunityIconss from 'react-native-vector-icons/MaterialCommunityIcons';
+import MaterialIconss from 'react-native-vector-icons/MaterialIcons';
+import Octiconss from 'react-native-vector-icons/Octicons';
+import SimpleLineIconss from 'react-native-vector-icons/SimpleLineIcons';
+
+export const AntDesign = AntDesigns;
+export const Entypo = Entypos;
+export const EvilIcons = EvilIconss;
+export const Feather = Feathers;
+export const FontAwesome = FontAwesomes;
+export const FontAwesome5 = FontAwesome5s;
+export const Fontisto = Fontistos;
+export const Foundation = Foundations;
+export const Ionicons = Ioniconss;
+export const MaterialCommunityIcons = MaterialCommunityIconss;
+export const MaterialIcons = MaterialIconss;
+export const Octicons = Octiconss;
+export const SimpleLineIcons = SimpleLineIconss;
